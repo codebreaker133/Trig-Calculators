@@ -13,7 +13,7 @@
 A=1
 B=2
 C=3
-a
+
 
 def abc():
     global A,B,C
